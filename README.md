@@ -1,5 +1,5 @@
-Hi, I’m Joe Assaf
-I’m interested in technology
+Hi, I’m Joe Assaf,
+I’m interested in technology,
 I’m looking to improve my knowledge background
 
 <!---
